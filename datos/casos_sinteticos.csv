@@ -1,0 +1,9 @@
+caso,registro_id,instrumento_observado,instrumento_objetivo,cantidad_esperada
+coincide,C01,pinza,pinza,2
+coincide,C02,tijera,pinza,2
+coincide,C03,pinza,pinza,2
+faltan,F01,pinza,pinza,2
+faltan,F02,tijera,pinza,2
+sobran,S01,pinza,pinza,2
+sobran,S02,pinza,pinza,2
+sobran,S03,pinza,pinza,2
